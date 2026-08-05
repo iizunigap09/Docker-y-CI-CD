@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Router-CL",
+        "pais": "Chile",
+        "tipo": "Router"
+    },
+    {
+        "nombre": "Switch-AR",
+        "pais": "Argentina",
+        "tipo": "Switch"
+    },
+    {
+        "nombre": "Firewall-PE",
+        "pais": "Peru",
+        "tipo": "Firewall"
+    }
+]
